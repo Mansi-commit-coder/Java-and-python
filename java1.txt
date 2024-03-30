@@ -1,7 +1,7 @@
 __JAVA__
 Developed in Sun Microsystem by James Gosling in 1995.
 
----------Few Points one should keep in min before starting JAVA---------
+---------Few Points one should keep in mind before starting JAVA---------
 
 
 
@@ -29,9 +29,25 @@ ________________________________________________________________________________
 
 c). ***********JDK*****************
         Java Development Kit
-        It includes everything including compiler, Java Runtime environment, Java Debuggers, Java code etc. for the program to executr in java we need to install JDK on our PC in order to create, Compile and run the java program.
+        It includes everything including compiler, Java Runtime environment, Java Debuggers, Java code etc. 
+        For the program to executr in java we need to install JDK on our PC in order to create, Compile and run the java program.
 
-        
+d). ***********JRE***********
+     Java Runtime environment
+
+     JDK include JRE. JRE installation on computer allows the java program to run, however we can't compile it. It includes
+     a program , a computer needs JRE.
+
+
+e). ******Garbage Collector*******
+      In Java, Programmers cant't delere the objects. To delete or recollect that memory JVM has a program called Garbage collector.
+  
+
+f).  *************ClassPath**************
+    The classPath is the file path where the java runtime and Java Compiler look for .class files to load. By default, JDK Provides
+    many libraries they should be added the classPath.
+    
+
 
 
 
