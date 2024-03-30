@@ -56,4 +56,8 @@ It is a simple way of writing a program in which we follow some spefic steps,or 
  i). Abstraction :
  Hiding irrelevent data of object or codes and showing only necessary one is called abstraction.
  ex: abstraction class{}
- 1 In an online banking system you want to see your profile details, the what you will do you just have to visit you bank website click on login icon and fill your id password and by clicking login button you will be redricted to you profile details, you don't have to think about how verification part will be done how your data was fetched this things and done nut hidien from you so this is abstraction all about .. hiding all the complixity, showing only necessery one...
+ 1 In an online banking system you want to see your profile details, 
+ the what you will do you just have to visit you bank website click on login icon and fill your id password and 
+ by clicking login button you will be redricted to you profile details, you don't have to think about how 
+ verification part will be done how your data was fetched this things and done nut hidien from you so this is 
+ abstraction all about .. hiding all the complixity, showing only necessery one...
