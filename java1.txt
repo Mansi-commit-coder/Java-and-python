@@ -1,1 +1,2 @@
-JAVA
+__JAVA__
+Developed by Sun
