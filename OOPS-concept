@@ -1,6 +1,6 @@
  *  *
 * () *  OBJECT-ORIENTED-PROGRAMMING..........
- *  *
+ *  *   -------------------------------------
 
   It is a programming concept that is based on " objects". The main function of oops is to increase readablity,
   flexibility and maintainablity of program.
@@ -23,3 +23,37 @@ or//
    A group of object which hase similar properties and behaviour.
 
    Like:: the animal type Dog is an class while specific dog named Tommy is an object of Dog class.
+
+    
+********** Procedure Oriented Programming **********
+-----------------------------------------------------
+It is a simple way of writing a program in which we follow some spefic steps,or some set of instructions to execute our code
+
+ like : C, Pascal
+
+
+ ____________________________________________________________________________________________________________________
+ |                       OOPS                                |                     POPS                              |
+ |___________________________________________________________|_______________________________________________________|
+ | Code reuse                                                |   Limited code reuse                                  |
+ | complex design                                            |   complex code                                        |
+ | Protected data                                            |   Global data focused                                 |
+ | Object focused design                                     |   top to down desugn                                  |
+ |___________________________________________________________________________________________________________________|
+ 
+
+
+ **************************FEATURES OF OOPs*****************************
+ _________________________________________________________________________
+
+                                                 Four pillers of OOPs
+                                                            |
+                                                            |
+ |-----------------------------------|------------------------------------------------|--------------------------------------|
+ |                                   |                                                |                                      |
+ Abstarction                     Encapsulation                                 Inheritance                           Polymorphism
+
+ i). Abstraction :
+ Hiding irrelevent data of object or codes and showing only necessary one is called abstraction.
+ ex: abstraction class{}
+ 1 In an online banking system you want to see your profile details, the what you will do you just have to visit you bank website click on login icon and fill your id password and by clicking login button you will be redricted to you profile details, you don't have to think about how verification part will be done how your data was fetched this things and done nut hidien from you so this is abstraction all about .. hiding all the complixity, showing only necessery one...
