@@ -1,0 +1,25 @@
+ *  *
+* () *  OBJECT-ORIENTED-PROGRAMMING..........
+ *  *
+
+  It is a programming concept that is based on " objects". The main function of oops is to increase readablity,
+  flexibility and maintainablity of program.
+
+  or/
+
+  OOPs is all about creating objects that contains both data and methods.
+  > Data is set of raw information.
+  > Methods is set of instruction or procedure through wwhich we can write our code.
+
+
+
+i.) OBJECT: An entity that has state and behaviour
+                      state:: like colour, Price, Model ect
+                      behaviour:: like Speed, gear
+
+ii.) CLASS: It is considered as a blueprint with with which you can use to create as many object you like.
+
+or//
+   A group of object which hase similar properties and behaviour.
+
+   Like:: the animal type Dog is an class while specific dog named Tommy is an object of Dog class.
