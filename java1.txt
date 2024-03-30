@@ -1,2 +1,37 @@
 __JAVA__
-Developed by Sun
+Developed in Sun Microsystem by James Gosling in 1995.
+
+---------Few Points one should keep in min before starting JAVA---------
+
+
+
+a).   ********JVM********
+      Java Virtual Machine
+     > It acts as a runtime engine to run java application.
+     > It converts Java bytecode into machine language.
+     > JVM Operations:-- i. Load code
+                        ii. Verifies code
+                       iii. Executes code
+                        iv. Provides runtime environment.
+                        
+
+b).   *****bytecode and Machine Code********
+____________________________________________________________________________________________________________________________________    
+| Feature             | Bytecode                                             | Machine Code                                        |
+|---------------------|------------------------------------------------------|-----------------------------------------------------|
+| Human Readability   | Generally readable, often resembles high-level code  | Not human-readable, represented in binary, Low-level|
+|Platform Independence| Generally platform-independent                       | Tied to a specific architecture                     |
+| Execution           | Interpreted by a virtual machine                     | Directly executed by the CPU                        |
+| Portability         | More portable                                        | Less portable                                       |
+| Size                | Larger file size due to metadata and instructions    |Smaller file size,  it's direct machine instructions |
+|_____________________|______________________________________________________|_____________________________________________________|
+
+
+c). ***********JDK*****************
+        Java Development Kit
+        It includes everything including compiler, Java Runtime environment, Java Debuggers, Java code etc. for the program to executr in java we need to install JDK on our PC in order to create, Compile and run the java program.
+
+        
+
+
+
