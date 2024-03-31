@@ -61,3 +61,23 @@ It is a simple way of writing a program in which we follow some spefic steps,or 
  by clicking login button you will be redricted to you profile details, you don't have to think about how 
  verification part will be done how your data was fetched this things and done nut hidien from you so this is 
  abstraction all about .. hiding all the complixity, showing only necessery one...
+
+
+ 2. In coffee machine you just have to give coffee, milk sugar as per your requirements, but you don't have to focus on how coffee 
+ is prepared under the machine.. 
+
+
+ ii). Encapsulation : Binding data and code togather in a single unit called encapsulation.
+ ex: When we log in to our email accounts, many back-end processes take place over which we have no control. 
+ The password we enter is retrieved in an encrypted form and verified, after which we get access to our account. 
+ Thus, we have no way of knowing how our password gets verified, keeping our account safe from misuse. It is another 
+ classic real-time analogy of encapsulation where users have restricted access to certain features.
+
+
+iii). Inheritance : When an object acquire properties and behaviours of there parent class is known as Inheritance.
+
+ex: you have black hair and blue eyes from your parents that is example of inheritance.
+
+iv). Polymorphism:  which allows objects of different classes, objects, variables and methods to exist in different forms. 
+With the help of polymorphism in oops, it is easy to represent one single form into various forms.
+ex: A woman is a mother to her son. She is a teacher for the other and the wife of his husband.
