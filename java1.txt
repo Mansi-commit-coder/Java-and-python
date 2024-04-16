@@ -126,3 +126,43 @@ Float -f decimals
 Character:- 'a','A'
 string - "Hi, there"
 boolen: true, false.
+
+
+***********Writing hello world in Java***************
+
+>> class helloworld {: This line declares a class named helloworld. In Java, classes are used as blueprints for creating objects.
+ The class name must begin with a capital letter and match the filename. Here, the class name is helloworld.
+
+>>public static void main(String[] arg){: This line declares a method called main. In Java, the main method is the entry point of 
+  a Java program. It's where the execution of the program begins.
+
+>>public: This is an access modifier, which means that the main method can be accessed from outside the class.
+
+>>static: This keyword indicates that the main method belongs to the class itself, not to any particular instance of the class.
+
+>>void: This keyword indicates that the main method does not return any value.
+
+>>main: This is the name of the method.
+
+>>(String[] arg): This is the parameter list for the main method. It accepts an array of strings as input. The name of the 
+parameter is arg, and it's an array of strings (String[]).
+
+>>{: This curly brace marks the beginning of the main method's body. In Java, curly braces {} are used to define the scope 
+of classes, methods, loops, and conditional statements.
+
+>>System.out.println("Hello-world");: This line is a statement that prints "Hello-world" to the console.
+
+System.out is a predefined Java class that represents the standard output stream (i.e., the console).
+println is a method of the System.out object used to print a line of text to the console.
+"Hello-world" is the string that is printed to the console.
+
+>>}: This curly brace marks the end of the main method's body.
+
+>>}: This curly brace marks the end of the helloworld class definition.
+
+
+
+
+for writing character we use      char ch = sc.next().charAt(0);
+for writting any integer we use   int n = sc.nextInt();
+writting  decimal value           double a = sc.nextDouble()
