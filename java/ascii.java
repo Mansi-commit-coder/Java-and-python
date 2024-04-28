@@ -7,6 +7,7 @@ public class ascii{
         char ch = sc.next().charAt(0);
         int asiic = ch;
         System.out.println("Entered character "+ch+" is :" +asiic);
+        sc.close();
 
     }
     
