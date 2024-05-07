@@ -23,6 +23,7 @@ public class pattern3{
             for(int j = 1; j <=i; j++){
                 System.out.print("  ");
             }
+            // number of * to be printed if user enter any no. that is row.
             for(int k = 2*(num-i)+1; k>= 1; k-- ){
                 System.out.print("* ");
             }
