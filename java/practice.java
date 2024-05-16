@@ -2,18 +2,25 @@ import java.util.*;
 public class practice{
   public static void main(String[] arg){
     Scanner sc = new Scanner(System.in);
-    System.out.print("Enter no. ");
-    int n = sc.nextInt();
-    for(int i= 0; i<=n; i++){ 
-      for(int j = 0; j<=i; j++){            
-        System.out.print((char)('A'+i)+ " ");
-      } 
+    System.out.print("Enter no . : ");
+    int num = sc.nextInt();
+     int reverse = 0;
+     int dup= num;
+    while(num>0){
+      int id = num%10;
+      reverse =(reverse *10)+id;
       
+      num = num/10;
       
-      System.out.println();
     }
-     
+    if(dup == reverse){
+      System.out.print("its palindrome.");
+    }
+    else{
+      System.out.print("its not palindrome.");
 
-     
+    }
+    
+    sc.close();
   }
 }

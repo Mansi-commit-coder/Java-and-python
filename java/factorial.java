@@ -42,7 +42,7 @@ public class factorial{
 public class factorial{
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter any three number you want : ");
+        System.out.print("Enter no : ");
         int num = sc.nextInt();
          int product = 1;
          for (int i = 1 ; i<=num; i++){
