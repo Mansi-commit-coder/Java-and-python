@@ -11,7 +11,7 @@ public static void main(String[] arg){
     char ch = sc.next().charAt(0);
     if((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')){
         // to print the user input along with the result you got after the check wether its alp.. or not then you have to put ch+
-        System.out.println(ch+ "Its an alphabet");
+        System.out.println(ch+ " Its an alphabet");
     }else {
         System.out.print(ch+ " is not an alphabet");
     }
